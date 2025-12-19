@@ -1,6 +1,6 @@
 # Pose-tracking-AI
 
-# 🕺 Pose-tracking-AI
+# Pose-tracking-AI
 
 **Pose-tracking-AI** is a Python-based project for real-time human pose detection using the **YOLOv8 Pose Estimation model**.
 
@@ -8,7 +8,7 @@ The system detects and visualizes human body keypoints from a live webcam or vid
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Real-time pose detection
 - YOLOv8 pose model (`yolov8s-pose.pt`)
